@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo aokp_geeb_att_full-userdebug
+add_lunch_combo cos_geeb_att_full-userdebug
