@@ -47,7 +47,8 @@ PRODUCT_PACKAGES += \
     librs_jni
 
 # Enable Torch
-PRODUCT_PACKAGES += Torch
+PRODUCT_PACKAGES += 
+	Torch
 
 # Ramdisk
 PRODUCT_COPY_FILES += \
