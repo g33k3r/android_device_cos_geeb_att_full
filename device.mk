@@ -231,7 +231,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # CameraHAL
 PRODUCT_PACKAGES += \
-	camera.geeb_att_full
+	camera.geeb_att_full \
 	libmmcamera_interface2 \
 	libmmcamera_interface
 
