@@ -29,7 +29,7 @@ TARGET_KERNEL_SOURCE := kernel/lge/geem
 -include device/lge/geeb_att_full/BoardConfigCommon.mk
 
 # assert
-TARGET_OTA_ASSERT_DEVICE := geebus,geebusc,geeb_att,geeb,gee_sp,geeb_att_us,e970,geeb_att_us,jeebus,jeebusc
+TARGET_OTA_ASSERT_DEVICE := geebus,geebusc,geeb_att,geeb,gee_sp,geeb_att_full,geeb_att_us,e970,geeb_att_us,jeebus,jeebusc
 
 # board-info
 TARGET_BOARD_INFO_FILE := device/lge/geeb_att_full/board-info.txt
